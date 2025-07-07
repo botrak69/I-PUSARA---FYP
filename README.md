@@ -17,3 +17,11 @@ Follow these steps to install and run the application locally.
    ```bash
    git clone https://github.com/botrak69/I-PUSARA---FYP.git
    cd I-PUSARA---FYP
+
+---
+
+2. **Install PHP dependencies**
+   ```bash
+   composer install
+
+---
